@@ -1,5 +1,4 @@
 {
-    "autoIncrement": false,
     "read": {
       "access": "anonymous"
     },
@@ -16,4 +15,3 @@
       "access": "anonymous"
     }
   }
-  
