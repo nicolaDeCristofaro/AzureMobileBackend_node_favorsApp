@@ -10,7 +10,7 @@ mobileApp.tables.add('Favors_Keywords');
 mobileApp.tables.add('Favors_Candidates');
 
 // Provide initialization of any tables that are statically defined.
-mobile.tables.initialize().then(function () {
+mobileApp.tables.initialize().then(function () {
     // Add the Mobile API so it is accessible as a Web API.
     app.use(mobileApp);
 
